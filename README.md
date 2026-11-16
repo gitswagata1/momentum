@@ -1184,3 +1184,11 @@ See the [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e44d26,50:7C6CF6,100:141e30&height=100&section=footer)](https://github.com/gitswagata1/momentum)
 
 </div>
+
+## Roadmap, contributing and citation
+
+- **Roadmap:** [ROADMAP.md](ROADMAP.md) lists planned work and directions for the project.
+- **Contributing:** see [CONTRIBUTING.md](CONTRIBUTING.md) and the
+  [Code of Conduct](CODE_OF_CONDUCT.md). Issues labelled `good first issue` are a friendly start.
+- **Citation:** [CITATION.cff](CITATION.cff) powers GitHub's "Cite this repository" button.
+

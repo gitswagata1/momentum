@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MOMentum"
+abstract: "AI meeting intelligence: record, transcribe, generate minutes of meeting, extract tasks and send reminders."
+type: software
+authors:
+  - family-names: "Banerjee"
+    given-names: "Swagata"
+repository-code: "https://github.com/gitswagata1/momentum"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
+keywords:
+  - meetings
+  - transcription
+  - llm
+  - productivity
